@@ -39,7 +39,7 @@
 ####4、Test主类：main方法中创建CPU对象cpu，将cpu speed 设置为2200；main方法中创建HardDisk对象disk，将disk amount 设置为200；main方法中创建PC对象pc
 
 
-####pc调用setCPU(CPU c)方法，调用实参是cpu
+####pc调用setCPU(CPU c)方法，调用实参是cpu；
 
 
 ####pc调用setHardDisk(HardDisk h)方法，调用实参是disk
