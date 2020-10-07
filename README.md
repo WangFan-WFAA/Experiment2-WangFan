@@ -156,7 +156,8 @@
 #### }
 ## 五、实验结果：
 
-
+![i](https://github.com/WangFan-WFAA/Experiment2-WangFan/blob/main/屏幕截图%202020-10-08%20001020.png
+)
 
 
 
